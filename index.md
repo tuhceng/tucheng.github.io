@@ -2,18 +2,23 @@
 <html>
 <head> 
 <meta charset="utf-8"> 
-<title>菜鸟教程(runoob.com)</title> 
+<title>tucheng</title> 
 </head>
 <body>
-
-<video width="320" height="240" controls autoplay>
-  <source src="movie.ogg" type="video/ogg">
-  <source src="movie.mp4" type="video/mp4">
-  <source src="movie.webm" type="video/webm">
-  <object data="movie.mp4" width="320" height="240">
-    <embed width="320" height="240" src="movie.swf">
-  </object>
-</video>
+<table border="1">
+    <tr>
+        <th>Header 1</th>
+        <th>Header 2</th>
+    </tr>
+    <tr>
+        <td>row 1, cell 1</td>
+        <td>row 1, cell 2</td>
+    </tr>
+    <tr>
+        <td>row 2, cell 1</td>
+        <td>row 2, cell 2</td>
+    </tr>
+</table>
 
 </body>
 </html>
